@@ -1,0 +1,16 @@
+{
+  "name": "stringplay",
+  "version": "1.0.2",
+  "description": "Uppercase,lowercase a string from given starting index to end index",
+  "main": "index.js",
+  "author": "Tarun Singh",
+  "license": "MIT",
+  "keywords": [
+    "uppercase",
+    "npm",
+    "lowercase",
+    "strings",
+    "package",
+    "stringplay"
+  ]
+}
